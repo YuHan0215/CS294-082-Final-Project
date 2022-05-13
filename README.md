@@ -1,5 +1,4 @@
 # CS294-082-Final-Project
-CS 294-082 Multimedia in Machine Learning Final Project
 Author: Parth Baokar, Leonard Milea, Yu-Han Pang
 ## Dataset Discription
 The machine learner aims to predict whether a given chest X-ray image is that of normal lungs or that of lungs with pneumonia.
